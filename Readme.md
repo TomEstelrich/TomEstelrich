@@ -11,9 +11,9 @@ iOS Developer and design passionate located in Toronto 🇨🇦.
 
 
 ### ⚡️ Quick facts
-- 🔭 I’m currently looking for job opportunities after recently graduating from [Ray Wenderlich iOS Bootcamp][RWiOSBootcamp]. 
-- 🌱 I’m developing [Space Xploration][SpaceXploration] and expecting to release it on the App Store soon.  
-- 👯 I’m open to collaborate in interesting projects.  
+- 🔭 I’m a [Ray Wenderlich iOS Bootcamp][RWiOSBootcamp] graduate. 
+- 🌱 My last app [Space Xploration][SpaceXploration] has been just released to the App Store.  
+- 👯 I’m always open to collaborate in interesting projects.  
 - 💬 Ask me about anything, I am happy to help.  
 - 🤪 Fun fact: I was the last one in my inner circle to find out that my thing was coding.  
 

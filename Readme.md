@@ -12,7 +12,7 @@ iOS Developer and design passionate located in Toronto 🇨🇦.
 
 ### ⚡️ Quick facts
 - 🔭 I’m a [Ray Wenderlich iOS Bootcamp][RWiOSBootcamp] graduate. 
-- 🌱 My last app [Space Xploration][SpaceXploration] has been just released to the App Store.  
+- 📱 Creator of [Space Xploration][SpaceXploration], available in the App Store.  
 - 👯 I’m always open to collaborate in interesting projects.  
 - 💬 Ask me about anything, I am happy to help.  
 - 🤪 Fun fact: I was the last one in my inner circle to find out that my thing was coding.  
@@ -23,7 +23,7 @@ iOS Developer and design passionate located in Toronto 🇨🇦.
 <!-- FOOTER -->
 <!-- Temporary links -->
 [RWiOSBootcamp]: https://www.raywenderlich.com/10408731-rw-bootcamp
-[SpaceXploration]: https://github.com/BEstelrich/RWiOSBootcamp/blob/master/Week%2012/Readme.md
+[SpaceXploration]: https://apps.apple.com/app/space-xploration/id1530580909
 
 
 <!-- Permanent links -->

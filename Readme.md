@@ -27,8 +27,6 @@ iOS Developer and design passionate located in Toronto 🇨🇦.
 
 
 <!-- Permanent links -->
-[Dev]: https://dev.to/bestelrich
-[Medium]: https://medium.com/@BEstelrich
 [Website]: https://www.thebitsfactory.com
-[LinkedIn]: https://www.linkedin.com/in/BEstelrich
-[Twitter]: https://twitter.com/BEstelrich
+[LinkedIn]: https://www.linkedin.com/in/TomEstelrich
+[Twitter]: https://twitter.com/TomEstelrich

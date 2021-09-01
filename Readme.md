@@ -15,7 +15,7 @@ iOS Developer and design passionate located in Toronto 🇨🇦.
 - 📱 Creator of [Space Xploration][SpaceXploration], available in the App Store.  
 - 👯 I’m always open to collaborate in interesting projects.  
 - 💬 Ask me about anything, I am happy to help.  
-- 🤪 Fun fact: I was the last one in my inner circle to find out that my thing was coding.  
+- 🤪 Fun fact: I cannot stop buying mechanical keyboards.
 
 
 

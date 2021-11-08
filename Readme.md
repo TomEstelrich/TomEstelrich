@@ -7,14 +7,15 @@
 
 <!-- BODY -->
 ## Hey 👋, I'm Tom!
-iOS Developer and design passionate located in Toronto 🇨🇦.
+iOS Developer located in Toronto [Canada]. Coming from a non Computer Science background, my only regret is not having switched careers sooner 😅.
 
 
 ### ⚡️ Quick facts
-- 🔭 I’m a [Ray Wenderlich iOS Bootcamp][RWiOSBootcamp] graduate. 
-- 📱 Creator of [Space Xploration][SpaceXploration], available in the App Store.  
-- 👯 I’m always open to collaborate in interesting projects.  
-- 💬 Ask me about anything, I am happy to help.  
+- 🚀 Working at [Rose Rocket][RoseRocket].
+- 📱 Creator of [Space Xploration][SpaceXploration], available in the App Store.
+- 🌱 SwiftUI advocate and permanent learner.
+- 💬 Ask me about anything, I am happy to help.
+- 🔭 Proud [Ray Wenderlich iOS Bootcamp][RWiOSBootcamp] graduate.
 - 🤪 Fun fact: I cannot stop buying mechanical keyboards.
 
 
@@ -24,6 +25,7 @@ iOS Developer and design passionate located in Toronto 🇨🇦.
 <!-- Temporary links -->
 [RWiOSBootcamp]: https://www.raywenderlich.com/10408731-rw-bootcamp
 [SpaceXploration]: https://apps.apple.com/app/space-xploration/id1530580909
+[RoseRocket]: https://www.roserocket.com
 
 
 <!-- Permanent links -->

@@ -15,7 +15,7 @@ iOS Developer located in Toronto [Canada]. Coming from a non Computer Science ba
 - 📱 Creator of [Space Xploration][SpaceXploration], available in the App Store.
 - 🌱 SwiftUI advocate and permanent learner.
 - 💬 Ask me about anything, I am happy to help.
-- 🔭 Proud [Ray Wenderlich iOS Bootcamp][RWiOSBootcamp] graduate.
+- 🔭 [Ray Wenderlich iOS Bootcamp][RWiOSBootcamp] graduate.
 - 🤪 Fun fact: I cannot stop buying mechanical keyboards.
 
 

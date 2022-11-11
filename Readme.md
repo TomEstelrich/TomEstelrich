@@ -11,11 +11,12 @@ iOS Developer located in Toronto [Canada]. Coming from a non Computer Science ba
 
 
 ### ⚡️ Quick facts
-- 🚀 Working at [Rose Rocket][RoseRocket].
+- 🚀 Working at [Ecobee][Ecobee].
 - 📱 Creator of [Space Xploration][SpaceXploration], available in the App Store.
 - 🌱 SwiftUI advocate and permanent learner.
+- 👨‍🎨 As a design passionate, I believe investing time on UI/UX always pays off.
 - 💬 Ask me about anything, I am happy to help.
-- 🔭 Proud [Ray Wenderlich iOS Bootcamp][RWiOSBootcamp] graduate.
+- 🔭 [Ray Wenderlich iOS Bootcamp][RWiOSBootcamp] graduate.
 - 🤪 Fun fact: I cannot stop buying mechanical keyboards.
 
 
@@ -25,7 +26,7 @@ iOS Developer located in Toronto [Canada]. Coming from a non Computer Science ba
 <!-- Temporary links -->
 [RWiOSBootcamp]: https://www.raywenderlich.com/10408731-rw-bootcamp
 [SpaceXploration]: https://apps.apple.com/app/space-xploration/id1530580909
-[RoseRocket]: https://www.roserocket.com
+[Ecobee]: https://www.ecobee.com/
 
 
 <!-- Permanent links -->

@@ -8,16 +8,16 @@
 
 <!-- BODY -->
 ## Hey 👋, I'm Tom!
-iOS Developer located in Toronto [Canada]. Coming from a non Computer Science background, my only regret is not having switched careers sooner 😅.
+iOS Developer located in Zurich [Switzerland]. Coming from a non Computer Science background, my only regret is not having switched careers sooner 😅.
 
 
 ### ⚡️ Quick facts
-- 🚀 Working at [Ecobee][Ecobee].
-- 📱 Creator of [Space Xploration][SpaceXploration], available in the App Store.
+- 🚀 After my great experience in [Ecobee][Ecobee] when living in Canada, I am now looking for a new team to join here in Switzerland.
+- 📱 Creator of [Space Xploration][SpaceXploration], available in the App Store. Currently working on an amazing new project!
 - 🌱 SwiftUI advocate and permanent learner.
 - 👨‍🎨 As a design passionate, I believe investing time on UI/UX always pays off.
 - 💬 Ask me about anything, I am happy to help.
-- 🔭 [Ray Wenderlich iOS Bootcamp][RWiOSBootcamp] graduate.
+- 🔭 [Ray Wenderlich/Kodeco iOS Bootcamp][RWiOSBootcamp] graduate.
 - 🤪 Fun fact: I cannot stop buying mechanical keyboards.
 
 

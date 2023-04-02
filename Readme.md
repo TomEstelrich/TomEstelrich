@@ -12,7 +12,7 @@ iOS Developer located in Zurich [Switzerland]. Coming from a non Computer Scienc
 
 
 ### ⚡️ Quick facts
-- 🚀 After my great experience in [Ecobee][Ecobee] when living in Canada, I am now looking for a new team to join here in Switzerland.
+- 🚀 After a great experience working at [Ecobee][Ecobee] in Canada, I am now looking for a new team to join here in Switzerland.
 - 📱 Creator of [Space Xploration][SpaceXploration], available in the App Store. Currently working on an amazing new project!
 - 🌱 SwiftUI advocate and permanent learner.
 - 👨‍🎨 As a design passionate, I believe investing time on UI/UX always pays off.

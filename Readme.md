@@ -1,7 +1,6 @@
 <!-- HEADER -->
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)][LinkedIn]
 [![](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)][Twitter]
-[![](https://img.shields.io/badge/Mastodon-5A46DA.svg?&style=flat&logo=mastodon&logoColor=white)][Mastodon]
 
 
 
@@ -34,4 +33,3 @@ iOS Developer located in Zurich [Switzerland]. Coming from a non Computer Scienc
 [Website]: https://www.thebitsfactory.com
 [LinkedIn]: https://www.linkedin.com/in/TomEstelrich
 [Twitter]: https://twitter.com/TomEstelrich
-[Mastodon]: https://iosdev.space/@TomEstelrich

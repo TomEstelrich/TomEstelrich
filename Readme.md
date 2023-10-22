@@ -7,14 +7,14 @@
 
 <!-- BODY -->
 ## Hey 👋, I'm Tom!
-iOS Software Developer located in Zurich [Switzerland]. Coming from a non Computer Science background, my only regret is not having switched careers sooner 😅.
+Self-taught Software Developer (iOS) currently located in Zurich (Switzerland).
 
 
 ### ⚡️ Quick facts
 - 🚀 Working as a Mobile Engineer at [Zupan][Zupan].
 - 📱 Creator of [Space Xploration][SpaceXploration], available in the App Store. Currently working on an amazing new project!
 - 🌱 SwiftUI advocate and permanent learner.
-- 👨‍🎨 As a design passionate, I believe investing time on UI/UX always pays off.
+- 👨‍🎨 As a design passionate, I believe that investing time on UI/UX always pays off.
 - 💬 Ask me about anything, I am happy to help.
 - 🤪 Fun fact: I cannot stop buying mechanical keyboards.
 

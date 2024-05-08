@@ -11,7 +11,7 @@ Self-taught Software Developer (iOS) currently located in Zurich (Switzerland).
 
 
 ### ⚡️ Quick facts
-- 🚀 Working as a Mobile Engineer at [The Bits Factory][Website].
+- 🚀 Working as a Mobile Engineer at [Cult4Apps][Website].
 - 📱 Creator of [Space Xploration][SpaceXploration], available in the App Store. Currently working on an amazing new project!
 - 🌱 SwiftUI advocate and permanent learner.
 - 👨‍🎨 As a design passionate, I believe that investing time on UI/UX always pays off.
@@ -25,10 +25,9 @@ Self-taught Software Developer (iOS) currently located in Zurich (Switzerland).
 <!-- Temporary links -->
 [RWiOSBootcamp]: https://www.raywenderlich.com/10408731-rw-bootcamp
 [SpaceXploration]: https://apps.apple.com/app/space-xploration/id1530580909
-[Zupan]: https://zupan.ai/
 
 
 <!-- Permanent links -->
-[Website]: https://www.thebitsfactory.com
+[Website]: https://www.cult4apps.com
 [LinkedIn]: https://www.linkedin.com/in/TomEstelrich
 [Twitter]: https://twitter.com/TomEstelrich

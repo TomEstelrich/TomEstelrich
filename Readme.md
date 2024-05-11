@@ -7,11 +7,11 @@
 
 <!-- BODY -->
 ## Hey 👋, I'm Tom!
-Self-taught Software Developer (iOS) currently located in Zurich (Switzerland).
+Senior Software Engineer (iOS) currently located in Zurich (Switzerland).
 
 
 ### ⚡️ Quick facts
-- 🚀 Working as a Mobile Engineer at [Cult4Apps][Website].
+- 🚀 Working at [Cult4Apps][Website].
 - 📱 Creator of [Space Xploration][SpaceXploration], available in the App Store. Currently working on an amazing new project!
 - 🌱 SwiftUI advocate and permanent learner.
 - 👨‍🎨 As a design passionate, I believe that investing time on UI/UX always pays off.

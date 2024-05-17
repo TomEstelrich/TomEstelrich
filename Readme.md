@@ -7,7 +7,7 @@
 
 <!-- BODY -->
 ## Hey 👋, I'm Tom!
-Senior Software Engineer (iOS) currently located in Zurich 🇨🇭.
+Senior Software Engineer (iOS) currently located in Zurich (Switzerland 🇨🇭).
 
 
 ### ⚡️ Quick facts

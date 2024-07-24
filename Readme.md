@@ -11,7 +11,7 @@ Senior Software Engineer (iOS) currently located in Zurich 🇨🇭.
 
 
 ### ⚡️ Quick facts
-- 🚀 Working at [Cult4Apps][Website].
+- 🚀 Working at [Vilea][Vilea].
 - 📱 Creator of [Space Xploration][SpaceXploration], available in the App Store. Currently working on an amazing new project!
 - 🌱 SwiftUI advocate and permanent learner.
 - 👨‍🎨 As a design passionate, I believe that investing time on UI/UX always pays off.
@@ -31,3 +31,4 @@ Senior Software Engineer (iOS) currently located in Zurich 🇨🇭.
 [Website]: https://www.cult4apps.com
 [LinkedIn]: https://www.linkedin.com/in/TomEstelrich
 [Twitter]: https://twitter.com/TomEstelrich
+[Vilea]: https://www.vilea.ch

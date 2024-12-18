@@ -1,6 +1,7 @@
 <!-- HEADER -->
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)][LinkedIn]
-[![](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)][Twitter]
+[![](https://img.shields.io/badge/Twitter-black.svg?&style=flat&logo=x&logoColor=white)][Twitter]
+[![](https://img.shields.io/badge/Bluesky-285BEE.svg?&style=flat&logo=bluesky&logoColor=white)][Bluesky]
 
 
 
@@ -11,7 +12,7 @@ Senior Software Engineer (iOS) currently located in Zurich 🇨🇭.
 
 
 ### ⚡️ Quick facts
-- 🚀 Working at [TEAL][TEAL].
+- 🚀 Working at [EAL][EAL].
 - 📱 Creator of [Space Xploration][SpaceXploration], available in the App Store. Currently working on an amazing new project!
 - 🌱 SwiftUI advocate and permanent learner.
 - 👨‍🎨 As a design passionate, I believe that investing time on UI/UX always pays off.
@@ -28,7 +29,7 @@ Senior Software Engineer (iOS) currently located in Zurich 🇨🇭.
 
 
 <!-- Permanent links -->
-[Website]: https://www.cult4apps.com
+[Bluesky]: https://bsky.app/profile/tomestelrich.bsky.social
+[EAL]: https://www.estelrichapplabs.com
 [LinkedIn]: https://www.linkedin.com/in/TomEstelrich
 [Twitter]: https://twitter.com/TomEstelrich
-[TEAL]: https://www.tomestelrich.dev

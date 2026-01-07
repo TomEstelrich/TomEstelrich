@@ -12,7 +12,7 @@ Senior Software Engineer (iOS) currently located in Zurich 🇨🇭.
 
 
 ### ⚡️ Quick facts
-- 🚀 Working at [CultForApps][CultForApps].
+- 🚀 Working at [Cult4Apps][Cult4Apps].
 - 📱 Creator of [Space Xploration][SpaceXploration], available in the App Store. Currently working on an amazing new project!
 - 🌱 SwiftUI advocate and permanent learner.
 - 👨‍🎨 As a design passionate, I believe that investing time on UI/UX always pays off.
@@ -30,6 +30,6 @@ Senior Software Engineer (iOS) currently located in Zurich 🇨🇭.
 
 <!-- Permanent links -->
 [Bluesky]: https://bsky.app/profile/tomestelrich.bsky.social
-[CultForApps]: https://www.cultforapps.com
+[Cult4Apps]: https://www.cultforapps.com
 [LinkedIn]: https://www.linkedin.com/in/TomEstelrich
 [Twitter]: https://twitter.com/TomEstelrich

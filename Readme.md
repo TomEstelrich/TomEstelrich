@@ -1,7 +1,6 @@
 <!-- HEADER -->
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)][LinkedIn]
 [![](https://img.shields.io/badge/Twitter-black.svg?&style=flat&logo=x&logoColor=white)][Twitter]
-[![](https://img.shields.io/badge/Bluesky-285BEE.svg?&style=flat&logo=bluesky&logoColor=white)][Bluesky]
 
 
 

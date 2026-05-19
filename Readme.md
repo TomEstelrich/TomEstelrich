@@ -7,24 +7,24 @@
 
 <!-- BODY -->
 ## Hey 👋, I'm Tom!
-Senior Software Engineer (iOS) currently located in Zurich 🇨🇭.
+Senior Software Engineer (iOS) currently located in Stockholm 🇸🇪.
 
 
 ### ⚡️ Quick facts
 - 🚀 Working at [Cult4Apps][Cult4Apps].
-- 📱 Creator of [Space Xploration][SpaceXploration], available in the App Store. Currently working on an amazing new project!
-- 🌱 SwiftUI advocate and permanent learner.
-- 👨‍🎨 As a design passionate, I believe that investing time on UI/UX always pays off.
-- 💬 Ask me about anything, I am happy to help.
-- 🤪 Fun fact: I cannot stop buying mechanical keyboards.
-
-
+- 📱 Creator of [Enframe][Enframe], an app that turns calendar activity into measurable progress. Previously launched [Space Xploration][SpaceXploration] on the App Store.
+- 🌱 SwiftUI advocate and lifelong learner.
+- 🏗️ Passionate about building scalable, maintainable and user-focused products.
+- 👨‍🎨 Strong believer that great design and engineering go hand in hand.
+- 💬 Ask me anything about Swift, SwiftUI, app architecture or indie development. Always happy to help!
+- 🤪 Fun fact: I cannot stop buying mechanical keyboards
 
 
 <!-- FOOTER -->
 <!-- Temporary links -->
 [RWiOSBootcamp]: https://www.raywenderlich.com/10408731-rw-bootcamp
 [SpaceXploration]: https://apps.apple.com/app/space-xploration/id1530580909
+[Enframe]: https://apps.apple.com/us/app/enframe-calendar-insights/id6759224659
 
 
 <!-- Permanent links -->

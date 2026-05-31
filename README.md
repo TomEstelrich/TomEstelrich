@@ -29,6 +29,6 @@ Senior Software Engineer (iOS) currently located in Stockholm 🇸🇪.
 
 <!-- Permanent links -->
 [Bluesky]: https://bsky.app/profile/tomestelrich.bsky.social
-[Cult4Apps]: https://www.cultforapps.com
+[Cult4Apps]: https://www.cult4apps.com
 [LinkedIn]: https://www.linkedin.com/in/TomEstelrich
 [Twitter]: https://twitter.com/TomEstelrich

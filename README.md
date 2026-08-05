@@ -7,11 +7,10 @@
 
 <!-- BODY -->
 ## Hey 👋, I'm Tom!
-Senior Software Engineer (iOS) currently located in Stockholm 🇸🇪.
+Senior Software Engineer (iOS) at [Google][Google] in Stockholm 🇸🇪.
 
 
 ### ⚡️ Quick facts
-- 🚀 Working at [Cult4Apps][Cult4Apps].
 - 📱 Creator of [Enframe][Enframe], an app that turns calendar activity into measurable progress. Previously launched [Space Xploration][SpaceXploration] on the App Store.
 - 🌱 SwiftUI advocate and lifelong learner.
 - 🏗️ Passionate about building scalable, maintainable and user-focused products.
@@ -30,5 +29,6 @@ Senior Software Engineer (iOS) currently located in Stockholm 🇸🇪.
 <!-- Permanent links -->
 [Bluesky]: https://bsky.app/profile/tomestelrich.bsky.social
 [Cult4Apps]: https://www.cult4apps.com
+[Google]: https://about.google/
 [LinkedIn]: https://www.linkedin.com/in/TomEstelrich
 [Twitter]: https://twitter.com/TomEstelrich
